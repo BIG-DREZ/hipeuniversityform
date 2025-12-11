@@ -14,7 +14,7 @@ body {
 }
 
 .form-logo {
-  max-width: 200px;
+  max-width: 150px;
   height: auto;
   padding: 20px;
 }
@@ -52,6 +52,7 @@ body {
   background-color: #47709c;
   border-color: #1f2a36;
 }
+
 
 
 
