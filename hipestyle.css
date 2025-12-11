@@ -16,7 +16,7 @@ body {
 .form-logo {
   width: 150px;
   height: auto;
-  padding: 20px;
+  
 }
 
 .header-text h1 {
@@ -52,6 +52,7 @@ body {
   background-color: #47709c;
   border-color: #1f2a36;
 }
+
 
 
 
