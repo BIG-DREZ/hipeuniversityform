@@ -6,7 +6,7 @@ body {
 }
 
 .form-header {
-  background-color: #55a5f1; 
+  background-color: #010203;
   width: 1000px;
    display: flex;
   align-self: center;
@@ -52,3 +52,4 @@ body {
   background-color: #47709c;
   border-color: #1f2a36;
 }
+
